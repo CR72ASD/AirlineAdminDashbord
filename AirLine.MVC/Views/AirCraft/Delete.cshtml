@@ -1,0 +1,20 @@
+﻿@model AirCraftViewModel
+@{
+	ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<div class="container">
+	<form method="post" asp-action="Delete">
+		<input asp-for="Code" hidden />
+
+		<h1 class="mt-3">Are You Sure You Want To Delete @Model.AircraftModel</h1>
+		<div class="form-group">
+			<label asp-for="AircraftModel" class="col-form-label"></label>
+			<input asp-for="AircraftModel" class="form-control" disabled />
+		</div>
+		<input type="submit" value="Delete" class="btn btn-primary" />
+		<a asp-action="Index" class="btn btn-light">Back To List</a>
+	</form>
+</div>

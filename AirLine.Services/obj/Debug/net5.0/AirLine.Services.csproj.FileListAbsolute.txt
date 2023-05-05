@@ -1,0 +1,15 @@
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\bin\Debug\net5.0\AirLine.Services.deps.json
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\bin\Debug\net5.0\AirLine.Services.dll
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\bin\Debug\net5.0\AirLine.Services.pdb
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\bin\Debug\net5.0\AirLine.Core.dll
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\bin\Debug\net5.0\AirLine.Core.pdb
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.csproj.AssemblyReference.cache
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.AssemblyInfoInputs.cache
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.AssemblyInfo.cs
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.csproj.CoreCompileInputs.cache
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.csproj.CopyComplete
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.dll
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\refint\AirLine.Services.dll
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\AirLine.Services.pdb
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Services\obj\Debug\net5.0\ref\AirLine.Services.dll

@@ -1,0 +1,25 @@
+﻿@model PortsToViewModel
+
+@inject IGenericRepository<Country> repository
+@{
+	var Countries = new SelectList(repository.GetAllAsync().Result, "CountryCode", "CountryName");
+}
+
+<div class="form-group">
+	<label asp-for="PortIDCode" class="col-form-label"></label>
+	<input asp-for="PortIDCode" class="form-control" />
+	<span asp-validation-for="PortIDCode" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+	<label asp-for="PortName" class="col-form-label"></label>
+	<input asp-for="PortName" class="form-control" />
+	<span asp-validation-for="PortName" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+	<label asp-for="Country" class="col-form-label"></label>
+	<select class="form-control" asp-for="CountryCode" asp-items="Countries">
+		<option value="@null">-- Select Country --</option>
+	</select>
+</div>

@@ -1,0 +1,12 @@
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\bin\Release\net5.0\AirLine.Core.deps.json
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\bin\Release\net5.0\AirLine.Core.dll
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\bin\Release\net5.0\AirLine.Core.pdb
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\AirLine.Core.csproj.AssemblyReference.cache
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\AirLine.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\AirLine.Core.AssemblyInfoInputs.cache
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\AirLine.Core.AssemblyInfo.cs
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\AirLine.Core.csproj.CoreCompileInputs.cache
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\AirLine.Core.dll
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\refint\AirLine.Core.dll
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\AirLine.Core.pdb
+D:\Ahmed Alaa\Projects\Airline.NET 5\AirLine.Core\obj\Release\net5.0\ref\AirLine.Core.dll
